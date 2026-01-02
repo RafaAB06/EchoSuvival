@@ -1,1 +1,3 @@
+Date format is always dd/mm/yyyy
 1 - There is a chance that if the player moves too fast, the terrain loading system may break and fail to load or unload some chunks. Unlikely to be fixed. Known issue since 01/01/2026. 
+2 - The player may be unable to jump after landing on irregular terrain during a previous jump due to poor raycast configurtion. Known since 02/01/2026.
